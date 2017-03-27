@@ -1,0 +1,9 @@
+The averaging has been done for the actual reference altitude of 0 ie the sensor was kept at the same level at all instants of time.
+
+
+->Average value of N elements = (Average of N-1 elements)*(N-1)/(N).
+
+
+->Now for a good sensor this value should converge to the static fixed altitude that we have chosen to be 0 in this case.
+->But here we see from the data provided that even the average of the readings gradually increase in the magnitude.
+->All altitude reading in Centimetres.
