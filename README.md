@@ -1,3 +1,3 @@
 # cfi_works
-library files of sensors
-filter algorithm
+ Custom library files of sensors.
+ Optimized filtering algorithms.
